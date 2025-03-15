@@ -20,7 +20,7 @@ El programa funciona modificando el archivo `SumatraPDF-settings.txt` que Sumatr
 
 ### Opción 1: Descargar el ejecutable
 
-1. Ve a la sección de [Releases]([https://github.com/username/SumatraSettingsSwitcher/releases](https://github.com/jafetrd/sumatraPDF_Switch/releases))
+1. Ve a la sección de [Releases](https://github.com/jafetrd/sumatraPDF_Switch/releases)
 2. Descarga el archivo `SumatraSettingsSwitcher.exe`
 3. Guardalo en la misma carpeta donde se encuentra guardado SumatraPDF
 4. Ejecuta
